@@ -1,0 +1,3 @@
+../Src/mem.c:35:5:memInit	2
+../Src/mem.c:51:5:memWrite	2
+../Src/mem.c:79:5:memRead	2
