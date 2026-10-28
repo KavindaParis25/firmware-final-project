@@ -99,7 +99,7 @@ firmware-final-project/
 
 ## Documentation
 
-The full project report (flowcharts, oscilloscope captures and annotated source code) is the Team 13 final project report, June 2026.
+The full project report (flowcharts, oscilloscope captures and annotated source code) is the FW_FINAL_PROJECT.pdf, June 2026.
 
 ## License
 
